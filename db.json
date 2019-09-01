@@ -12,5 +12,15 @@
 		"memberFullname": "Rachman Paijo",
 		"memberId": 5,
 		"memberUsername": "singoafrika"
+	},
+	"car": {
+		"carBrand": "Toyota",
+		"carColor": "red",
+		"carDescription": "Mobil murah tapi tidak murahan",
+		"carGroup": "SUV",
+		"carId": 1,
+		"carPrice": 180000000,
+		"carType": "Avanza",
+		"carYear": "2019"
 	}
 }
