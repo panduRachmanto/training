@@ -1,26 +1,102 @@
 {
-	"dealer": {
-		"dealerId": 3,
-		"memberDescription": "Who am I",
-		"memberFullname": "Rachman Paijo",
-		"memberId": 5,
-		"memberUsername": "singoafrika"
-	},
-	"member": {
-		"dealerId": 3,
-		"memberDescription": "Who am I",
-		"memberFullname": "Rachman Paijo",
-		"memberId": 5,
-		"memberUsername": "singoafrika"
-	},
-	"car": {
-		"carBrand": "Toyota",
-		"carColor": "red",
-		"carDescription": "Mobil murah tapi tidak murahan",
-		"carGroup": "SUV",
-		"carId": 1,
-		"carPrice": 180000000,
-		"carType": "Avanza",
-		"carYear": "2019"
+	"status": 200,
+	"message": "success",
+	"data": {
+		"data": [{
+				"carBrand": "Toyota",
+				"carColor": "red",
+				"carDescription": "Mobil murah tapi tidak murahan",
+				"carGroup": "SUV",
+				"carId": 1,
+				"carPrice": 180000000,
+				"carType": "Avanza",
+				"carYear": "2019"
+			},
+			{
+				"carBrand": "Toyota",
+				"carDescription": "Mobil agak mahal",
+				"carId": 2,
+				"carPrice": 250000000,
+				"carType": "Yaris"
+			},
+			{
+				"carBrand": "Toyota",
+				"carDescription": "Mobil mahal banget",
+				"carId": 3,
+				"carPrice": 500000000,
+				"carType": "Alpard"
+			},
+			{
+				"carBrand": "Toyota",
+				"carDescription": "Mobil mahal banget",
+				"carId": 4,
+				"carPrice": 500000000,
+				"carType": "Alpard2"
+			},
+			{
+				"carBrand": "Toyota",
+				"carDescription": "Mobil mahal banget",
+				"carId": 5,
+				"carPrice": 500000000,
+				"carType": "Alpard3"
+			},
+			{
+				"carBrand": "Toyota",
+				"carDescription": "Mobil mahal banget",
+				"carId": 6,
+				"carPrice": 500000000,
+				"carType": "Alpard4"
+			},
+			{
+				"carBrand": "Toyota",
+				"carDescription": "Mobil mahal banget",
+				"carId": 7,
+				"carPrice": 500000000,
+				"carType": "Alpard5"
+			},
+			{
+				"carBrand": "Toyota",
+				"carDescription": "Mobil mahal banget",
+				"carId": 8,
+				"carPrice": 500000000,
+				"carType": "Alpard6"
+			},
+			{
+				"carBrand": "Toyota",
+				"carDescription": "Mobil mahal banget",
+				"carId": 9,
+				"carPrice": 55555,
+				"carType": "Alpard7"
+			},
+			{
+				"carBrand": "Toyota",
+				"carDescription": "Mobil singo banget",
+				"carId": 13,
+				"carPrice": 2000000,
+				"carType": "Alpard90"
+			},
+			{
+				"carBrand": "Toyota",
+				"carDescription": "Mobil mahal banget",
+				"carId": 14,
+				"carPrice": 200000000,
+				"carType": "Alpard10"
+			},
+			{
+				"carBrand": "Toyota",
+				"carDescription": "Mobil mahal banget",
+				"carId": 15,
+				"carPrice": 2000000,
+				"carType": "Alpard12"
+			},
+			{
+				"carBrand": "Toyota",
+				"carDescription": "Mobil singo banget",
+				"carId": 16,
+				"carPrice": 2000000,
+				"carType": "Alpard90"
+			}
+		]
 	}
+
 }
