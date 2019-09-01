@@ -1,0 +1,15 @@
+{
+	"dealer": {
+		"dealerDescription": "Dealer Toyota Mampang",
+		"dealerId": 3,
+		"dealerLocation": "Mampang",
+		"dealerName": "Dealer Mampang"
+	},
+	"member": {
+		"dealerId": 3,
+		"memberDescription": "Who am I",
+		"memberFullname": "Rachman Paijo",
+		"memberId": 5,
+		"memberUsername": "singoafrika"
+	}
+}
