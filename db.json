@@ -1,33 +1,11 @@
 {
-	"dealer": [{
-			"dealerId": 3,
-			"memberDescription": "Who am I",
-			"memberFullname": "Rachman Paijo",
-			"memberId": 3,
-			"memberUsername": "singoafrika"
-		},
-		{
-			"dealerId": 4,
-			"memberDescription": "Who am I",
-			"memberFullname": "Andrias Pandu Rachmanto",
-			"memberId": 4,
-			"memberUsername": "singoarab"
-		},
-		{
-			"dealerId": 3,
-			"memberDescription": "Who am I",
-			"memberFullname": "Rachman Paijo",
-			"memberId": 5,
-			"memberUsername": "singoafrika"
-		},
-		{
-			"dealerId": 3,
-			"memberDescription": "Who am I",
-			"memberFullname": "Rachman Paijo",
-			"memberId": 6,
-			"memberUsername": "singoafrika"
-		}
-	],
+	"dealer": {
+		"dealerId": 3,
+		"memberDescription": "Who am I",
+		"memberFullname": "Rachman Paijo",
+		"memberId": 5,
+		"memberUsername": "singoafrika"
+	},
 	"member": {
 		"dealerId": 3,
 		"memberDescription": "Who am I",
